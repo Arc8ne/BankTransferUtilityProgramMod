@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTransferUtilityProgramMod", "BankTransferUtilityProgramMod.csproj", "{CAF80EAA-D988-4DE5-AB0C-E077EBB370FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF80EAA-D988-4DE5-AB0C-E077EBB370FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF80EAA-D988-4DE5-AB0C-E077EBB370FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF80EAA-D988-4DE5-AB0C-E077EBB370FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF80EAA-D988-4DE5-AB0C-E077EBB370FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F139EBAD-3416-4786-9FFC-32DEC8679456}
+	EndGlobalSection
+EndGlobal
